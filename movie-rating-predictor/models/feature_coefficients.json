@@ -1,0 +1,28 @@
+{
+  "intercept": 4.826367222833112,
+  "coefficients": {
+    "release_year": -0.0024182613761778286,
+    "genre_count": 0.028074269574817456,
+    "genre_Action": -0.05877397884883376,
+    "genre_Adventure": -0.025545001030795676,
+    "genre_Animation": 0.12847757029616919,
+    "genre_Children": -0.1509306789565412,
+    "genre_Comedy": -0.05744702730089141,
+    "genre_Crime": -0.014476290527070479,
+    "genre_Documentary": 0.3609735895220842,
+    "genre_Drama": 0.05610368903135243,
+    "genre_Fantasy": -0.021951025682478302,
+    "genre_Film-Noir": 0.06575016942592479,
+    "genre_Horror": -0.11232395600695652,
+    "genre_IMAX": 0.016221233532766197,
+    "genre_Musical": -0.043874077120722624,
+    "genre_Mystery": 0.0012008967268044585,
+    "genre_Romance": -0.026616544776171376,
+    "genre_Sci-Fi": -0.03672571441250742,
+    "genre_Thriller": -0.04266925821593984,
+    "genre_War": -0.007655043364642778,
+    "genre_Western": -0.0016642827167233955,
+    "hist_movie_avg_rating": 0.9140119616366441,
+    "log_rating_count": 0.07455833255588011
+  }
+}

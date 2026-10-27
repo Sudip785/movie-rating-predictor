@@ -1,0 +1,20 @@
+{
+  "dataset_total_ratings": 100836,
+  "train_samples": 80668,
+  "test_samples": 20168,
+  "dummy_baseline": {
+    "model_name": "DummyRegressor (mean baseline)",
+    "strategy": "mean",
+    "constant_prediction": 3.502572271532702,
+    "mae": 0.8315907281547353,
+    "rmse": 1.0488405992661316
+  },
+  "linear_regression": {
+    "model_name": "LinearRegression (OLS)",
+    "mae": 0.7483129817490504,
+    "rmse": 0.9581606159619812,
+    "mae_improvement_pct": 10.01427067260295,
+    "rmse_improvement_pct": 8.645735430874693,
+    "intercept": 4.826367222833112
+  }
+}
